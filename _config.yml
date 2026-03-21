@@ -1,7 +1,7 @@
 title: AquaSafe
 description: "Your smart companion for aquarium planning, monitoring, and care."
 url: https://dmabamboo.github.io
-baseurl: /aquasafe-public
+baseurl: /aquarium-sensei-public
 
 defaults:
   - scope:
