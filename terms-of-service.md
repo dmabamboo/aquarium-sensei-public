@@ -112,5 +112,5 @@ These Terms, together with our Privacy Policy and Data Protection notice, consti
 
 If you have questions about these Terms, please contact us at:
 
-- **Email**: [TODO: contact email]
+- **Email**: wfh-appstore-contact@googlegroups.com
 - **Address**: [TODO: physical address, if applicable]

@@ -14,7 +14,7 @@ This page provides information about how Aquarium Sensei processes personal data
 The data controller responsible for your personal data is:
 
 - **Name**: [TODO: your full legal name or company name]
-- **Email**: [TODO: contact email]
+- **Email**: wfh-appstore-contact@googlegroups.com
 - **Address**: [TODO: physical address]
 
 ## 2. Legal Basis for Processing
@@ -63,7 +63,7 @@ Where processing is based on consent, you may withdraw it at any time without af
 ### Right to Lodge a Complaint
 You have the right to lodge a complaint with a supervisory authority in your country of residence.
 
-To exercise any of these rights, contact us at **[TODO: contact email]**. We will respond within 30 days.
+To exercise any of these rights, contact us at **wfh-appstore-contact@googlegroups.com**. We will respond within 30 days.
 
 ## 5. Data Transfers
 
@@ -104,5 +104,5 @@ We may update this data protection notice from time to time. Material changes wi
 
 For data protection enquiries, contact:
 
-- **Email**: [TODO: contact email]
+- **Email**: wfh-appstore-contact@googlegroups.com
 - **Address**: [TODO: physical address]

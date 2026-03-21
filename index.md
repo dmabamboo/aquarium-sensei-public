@@ -42,4 +42,4 @@ Aquarium Sensei is designed for aquarium hobbyists of all experience levels. The
 
 ## Contact
 
-If you have questions, feedback, or need support, please reach out to us at **[TODO: your contact email]**.
+If you have questions, feedback, or need support, please reach out to us at **wfh-appstore-contact@googlegroups.com**.

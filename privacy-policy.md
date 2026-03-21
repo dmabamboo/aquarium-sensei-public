@@ -62,7 +62,7 @@ Depending on your location, you may have the right to:
 - Object to or restrict processing of your data
 - Request data portability
 
-To exercise these rights, contact us at **[TODO: contact email]**.
+To exercise these rights, contact us at **wfh-appstore-contact@googlegroups.com**.
 
 ## 7. Children's Privacy
 
@@ -80,5 +80,5 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 If you have questions about this Privacy Policy, please contact us at:
 
-- **Email**: [TODO: contact email]
+- **Email**: wfh-appstore-contact@googlegroups.com
 - **Address**: [TODO: physical address, if applicable]
