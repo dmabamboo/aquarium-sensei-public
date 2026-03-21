@@ -1,21 +1,21 @@
 ---
 title: Terms of Service
-description: "AquaSafe Terms of Service — rules and conditions for using the App."
+description: "Aquarium Sensei Terms of Service — rules and conditions for using the App."
 ---
 
 # Terms of Service
 
 <p class="legal-meta">Effective date: [TODO: set date] &middot; Last updated: [TODO: set date]</p>
 
-Please read these Terms of Service ("Terms") carefully before using the AquaSafe mobile application (the "App"). By using the App, you agree to be bound by these Terms.
+Please read these Terms of Service ("Terms") carefully before using the Aquarium Sensei mobile application (the "App"). By using the App, you agree to be bound by these Terms.
 
 ## 1. Acceptance of Terms
 
-By accessing or using AquaSafe, you agree to these Terms and our [Privacy Policy]({{ '/privacy-policy' | relative_url }}). If you do not agree, do not use the App.
+By accessing or using Aquarium Sensei, you agree to these Terms and our [Privacy Policy]({{ '/privacy-policy' | relative_url }}). If you do not agree, do not use the App.
 
 ## 2. Description of Service
 
-AquaSafe is a mobile application that helps aquarium hobbyists:
+Aquarium Sensei is a mobile application that helps aquarium hobbyists:
 
 - Plan and set up aquariums
 - Track and monitor water parameters and tank conditions
@@ -27,7 +27,7 @@ The App is provided as a tool for informational and hobbyist purposes only.
 
 ## 3. Disclaimer — Not Professional Advice
 
-**AquaSafe does not provide professional veterinary, biological, or environmental advice.** The information, recommendations, and compatibility suggestions provided by the App are for general informational purposes only and should not be relied upon as a substitute for professional advice.
+**Aquarium Sensei does not provide professional veterinary, biological, or environmental advice.** The information, recommendations, and compatibility suggestions provided by the App are for general informational purposes only and should not be relied upon as a substitute for professional advice.
 
 You are solely responsible for the health and welfare of your aquatic life. Always consult qualified professionals when dealing with serious health issues affecting your aquarium inhabitants.
 
@@ -44,7 +44,7 @@ We reserve the right to suspend or terminate accounts that violate these Terms.
 
 ## 5. User Responsibilities
 
-When using AquaSafe, you agree to:
+When using Aquarium Sensei, you agree to:
 
 - Use the App only for lawful purposes
 - Not attempt to reverse engineer, decompile, or disassemble the App
@@ -55,7 +55,7 @@ When using AquaSafe, you agree to:
 
 ## 6. User Content
 
-You retain ownership of data you enter into AquaSafe (aquarium configurations, logs, notes, etc.). By using the App, you grant us a limited licence to store, process, and display this data solely for the purpose of providing the App's services to you.
+You retain ownership of data you enter into Aquarium Sensei (aquarium configurations, logs, notes, etc.). By using the App, you grant us a limited licence to store, process, and display this data solely for the purpose of providing the App's services to you.
 
 ## 7. Intellectual Property
 
@@ -67,7 +67,7 @@ The App may integrate with or link to third-party services. We are not responsib
 
 ## 9. Availability and Modifications
 
-We strive to keep AquaSafe available and up-to-date, but we do not guarantee uninterrupted access. We reserve the right to:
+We strive to keep Aquarium Sensei available and up-to-date, but we do not guarantee uninterrupted access. We reserve the right to:
 
 - Modify, suspend, or discontinue any feature of the App at any time
 - Perform maintenance that may temporarily limit availability
@@ -77,7 +77,7 @@ We strive to keep AquaSafe available and up-to-date, but we do not guarantee uni
 
 To the maximum extent permitted by applicable law:
 
-- AquaSafe is provided **"as is"** and **"as available"** without warranties of any kind, whether express or implied.
+- Aquarium Sensei is provided **"as is"** and **"as available"** without warranties of any kind, whether express or implied.
 - We do not warrant that the App will be error-free, secure, or continuously available.
 - We are not liable for any **indirect, incidental, special, consequential, or punitive damages** arising from your use of the App.
 - Our total liability to you for any claims arising from use of the App shall not exceed the amount you paid for the App in the 12 months preceding the claim, or [TODO: e.g., $50], whichever is greater.
@@ -85,7 +85,7 @@ To the maximum extent permitted by applicable law:
 
 ## 11. Indemnification
 
-You agree to indemnify and hold harmless AquaSafe and its developers from any claims, damages, losses, or expenses (including legal fees) arising from your use of the App or violation of these Terms.
+You agree to indemnify and hold harmless Aquarium Sensei and its developers from any claims, damages, losses, or expenses (including legal fees) arising from your use of the App or violation of these Terms.
 
 ## 12. Termination
 
@@ -106,7 +106,7 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 ## 15. Entire Agreement
 
-These Terms, together with our Privacy Policy and Data Protection notice, constitute the entire agreement between you and AquaSafe regarding your use of the App.
+These Terms, together with our Privacy Policy and Data Protection notice, constitute the entire agreement between you and Aquarium Sensei regarding your use of the App.
 
 ## 16. Contact Us
 

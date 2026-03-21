@@ -1,13 +1,13 @@
 ---
 title: Data Protection
-description: "AquaSafe Data Protection — GDPR and data subject rights."
+description: "Aquarium Sensei Data Protection — GDPR and data subject rights."
 ---
 
 # Data Protection
 
 <p class="legal-meta">Effective date: [TODO: set date] &middot; Last updated: [TODO: set date]</p>
 
-This page provides information about how AquaSafe processes personal data in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws.
+This page provides information about how Aquarium Sensei processes personal data in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws.
 
 ## 1. Data Controller
 
@@ -85,7 +85,7 @@ We retain personal data only for as long as necessary to fulfil the purposes des
 
 ## 7. Cookies and Tracking
 
-The AquaSafe App does not use browser cookies. However, we may use:
+The Aquarium Sensei App does not use browser cookies. However, we may use:
 
 - **Analytics SDKs**: [TODO: e.g., Firebase Analytics] for understanding App usage patterns.
 - **Crash reporting**: [TODO: e.g., Firebase Crashlytics] for identifying and fixing bugs.
@@ -94,7 +94,7 @@ You can opt out of analytics data collection in the App's settings [TODO: if app
 
 ## 8. Automated Decision-Making
 
-AquaSafe may use automated processing to provide species compatibility recommendations and water parameter advice. These features are designed to assist your decision-making and do not produce legal effects or similarly significant impacts on you.
+Aquarium Sensei may use automated processing to provide species compatibility recommendations and water parameter advice. These features are designed to assist your decision-making and do not produce legal effects or similarly significant impacts on you.
 
 ## 9. Changes to This Notice
 

@@ -1,13 +1,13 @@
 ---
 title: Privacy Policy
-description: "AquaSafe Privacy Policy — how we collect, use, and protect your data."
+description: "Aquarium Sensei Privacy Policy — how we collect, use, and protect your data."
 ---
 
 # Privacy Policy
 
 <p class="legal-meta">Effective date: [TODO: set date] &middot; Last updated: [TODO: set date]</p>
 
-This Privacy Policy describes how AquaSafe ("we", "us", or "our") collects, uses, and shares information when you use the AquaSafe mobile application (the "App").
+This Privacy Policy describes how Aquarium Sensei ("we", "us", or "our") collects, uses, and shares information when you use the Aquarium Sensei mobile application (the "App").
 
 ## 1. Information We Collect
 
@@ -66,7 +66,7 @@ To exercise these rights, contact us at **[TODO: contact email]**.
 
 ## 7. Children's Privacy
 
-AquaSafe is not directed at children under the age of 13 (or the applicable age in your jurisdiction). We do not knowingly collect personal information from children. If you believe we have collected data from a child, please contact us so we can take appropriate action.
+Aquarium Sensei is not directed at children under the age of 13 (or the applicable age in your jurisdiction). We do not knowingly collect personal information from children. If you believe we have collected data from a child, please contact us so we can take appropriate action.
 
 ## 8. Third-Party Links
 

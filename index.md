@@ -1,14 +1,14 @@
 ---
 title: Home
-description: "AquaSafe — Your smart companion for aquarium planning, monitoring, and care."
+description: "Aquarium Sensei — Your smart companion for aquarium planning, monitoring, and care."
 ---
 
 <div class="hero" markdown="0">
-  <h1>AquaSafe</h1>
+  <h1>Aquarium Sensei</h1>
   <p class="tagline">Your smart companion for aquarium planning, monitoring, and care.</p>
 </div>
 
-Whether you're setting up your first tank or managing a multi-aquarium setup, AquaSafe helps you make informed decisions and keep your aquatic life thriving.
+Whether you're setting up your first tank or managing a multi-aquarium setup, Aquarium Sensei helps you make informed decisions and keep your aquatic life thriving.
 
 <div class="features" markdown="0">
   <div class="feature">
@@ -27,12 +27,12 @@ Whether you're setting up your first tank or managing a multi-aquarium setup, Aq
 
 <!-- [TODO] Replace with your actual Google Play Store link -->
 <p style="text-align:center">
-  <a href="https://play.google.com/store/apps/details?id=com.aquasafe.app" class="cta">Get it on Google Play</a>
+  <a href="https://play.google.com/store/apps/details?id=com.wfhunlimited.aquariumsensei" class="cta">Get it on Google Play</a>
 </p>
 
-## About AquaSafe
+## About Aquarium Sensei
 
-AquaSafe is designed for aquarium hobbyists of all experience levels. The app helps you:
+Aquarium Sensei is designed for aquarium hobbyists of all experience levels. The app helps you:
 
 - **Plan** new aquariums with step-by-step guidance
 - **Manage** your existing tanks with maintenance schedules and reminders
