@@ -25,7 +25,6 @@ Whether you're setting up your first tank or managing a multi-aquarium setup, Aq
   </div>
 </div>
 
-<!-- [TODO] Replace with your actual Google Play Store link -->
 <p style="text-align:center">
   <a href="https://play.google.com/store/apps/details?id=com.wfhunlimited.aquariumsensei" class="cta">Get it on Google Play</a>
 </p>

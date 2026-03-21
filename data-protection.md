@@ -5,7 +5,7 @@ description: "Aquarium Sensei Data Protection — GDPR and data subject rights."
 
 # Data Protection
 
-<p class="legal-meta">Effective date: [TODO: set date] &middot; Last updated: [TODO: set date]</p>
+<p class="legal-meta">Effective date: March 21, 2026 &middot; Last updated: March 21, 2026</p>
 
 This page provides information about how Aquarium Sensei processes personal data in accordance with the General Data Protection Regulation (GDPR) and other applicable data protection laws.
 
@@ -13,9 +13,8 @@ This page provides information about how Aquarium Sensei processes personal data
 
 The data controller responsible for your personal data is:
 
-- **Name**: [TODO: your full legal name or company name]
+- **Name**: Working From Home Unlimited
 - **Email**: wfh-appstore-contact@googlegroups.com
-- **Address**: [TODO: physical address]
 
 ## 2. Legal Basis for Processing
 
@@ -73,24 +72,22 @@ Your data may be transferred to and processed in countries outside the European 
 - Adequacy decisions by the European Commission
 - Other legally recognised transfer mechanisms
 
-<!-- [TODO] Specify where data is hosted/processed, e.g., Google Cloud (US), AWS (EU) -->
+Data is hosted and processed by Google Cloud (Firebase) infrastructure.
 
 ## 6. Data Retention
 
 We retain personal data only for as long as necessary to fulfil the purposes described in our [Privacy Policy]({{ '/privacy-policy' | relative_url }}). Specific retention periods:
 
 - **Account data**: Retained while your account is active, deleted within 30 days of account deletion.
-- **Usage and analytics data**: Retained for [TODO: e.g., 12 months] in identifiable form, then anonymised.
-- **Support communications**: Retained for [TODO: e.g., 24 months] after resolution.
+- **Usage and analytics data**: Retained for 12 months in identifiable form, then anonymised.
+- **Support communications**: Retained for 24 months after resolution.
 
 ## 7. Cookies and Tracking
 
 The Aquarium Sensei App does not use browser cookies. However, we may use:
 
-- **Analytics SDKs**: [TODO: e.g., Firebase Analytics] for understanding App usage patterns.
-- **Crash reporting**: [TODO: e.g., Firebase Crashlytics] for identifying and fixing bugs.
-
-You can opt out of analytics data collection in the App's settings [TODO: if applicable].
+- **Analytics SDKs**: Firebase Analytics for understanding App usage patterns.
+- **Crash reporting**: Firebase Crashlytics for identifying and fixing bugs.
 
 ## 8. Automated Decision-Making
 
@@ -105,4 +102,3 @@ We may update this data protection notice from time to time. Material changes wi
 For data protection enquiries, contact:
 
 - **Email**: wfh-appstore-contact@googlegroups.com
-- **Address**: [TODO: physical address]

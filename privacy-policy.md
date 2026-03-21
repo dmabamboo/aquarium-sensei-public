@@ -5,7 +5,7 @@ description: "Aquarium Sensei Privacy Policy — how we collect, use, and protec
 
 # Privacy Policy
 
-<p class="legal-meta">Effective date: [TODO: set date] &middot; Last updated: [TODO: set date]</p>
+<p class="legal-meta">Effective date: March 21, 2026 &middot; Last updated: March 21, 2026</p>
 
 This Privacy Policy describes how Aquarium Sensei ("we", "us", or "our") collects, uses, and shares information when you use the Aquarium Sensei mobile application (the "App").
 
@@ -21,7 +21,7 @@ This Privacy Policy describes how Aquarium Sensei ("we", "us", or "our") collect
 - **Device information**: Device type, operating system version, unique device identifiers, and language settings.
 - **Log data**: Error logs and performance data to help us improve the App.
 
-<!-- [TODO] List specific analytics/crash reporting SDKs used, e.g., Firebase Analytics, Crashlytics -->
+We use Firebase Analytics and Firebase Crashlytics to collect usage and crash data.
 
 ## 2. How We Use Your Information
 
@@ -42,7 +42,7 @@ We do not sell your personal information. We may share data with:
 - **Legal requirements**: When required by law, regulation, or legal process.
 - **Business transfers**: In connection with a merger, acquisition, or sale of assets.
 
-<!-- [TODO] List specific third-party services (e.g., Google Firebase, cloud provider) -->
+Our primary third-party service provider is Google Firebase (analytics, crash reporting, and cloud infrastructure).
 
 ## 4. Data Retention
 
@@ -81,4 +81,3 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 If you have questions about this Privacy Policy, please contact us at:
 
 - **Email**: wfh-appstore-contact@googlegroups.com
-- **Address**: [TODO: physical address, if applicable]

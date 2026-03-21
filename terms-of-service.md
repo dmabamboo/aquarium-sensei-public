@@ -5,7 +5,7 @@ description: "Aquarium Sensei Terms of Service — rules and conditions for usin
 
 # Terms of Service
 
-<p class="legal-meta">Effective date: [TODO: set date] &middot; Last updated: [TODO: set date]</p>
+<p class="legal-meta">Effective date: March 21, 2026 &middot; Last updated: March 21, 2026</p>
 
 Please read these Terms of Service ("Terms") carefully before using the Aquarium Sensei mobile application (the "App"). By using the App, you agree to be bound by these Terms.
 
@@ -59,7 +59,7 @@ You retain ownership of data you enter into Aquarium Sensei (aquarium configurat
 
 ## 7. Intellectual Property
 
-The App, including its design, code, graphics, logos, and content (excluding user-generated content), is owned by [TODO: your name or company] and is protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works from the App without our prior written consent.
+The App, including its design, code, graphics, logos, and content (excluding user-generated content), is owned by Working From Home Unlimited and is protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works from the App without our prior written consent.
 
 ## 8. Third-Party Services
 
@@ -80,7 +80,7 @@ To the maximum extent permitted by applicable law:
 - Aquarium Sensei is provided **"as is"** and **"as available"** without warranties of any kind, whether express or implied.
 - We do not warrant that the App will be error-free, secure, or continuously available.
 - We are not liable for any **indirect, incidental, special, consequential, or punitive damages** arising from your use of the App.
-- Our total liability to you for any claims arising from use of the App shall not exceed the amount you paid for the App in the 12 months preceding the claim, or [TODO: e.g., $50], whichever is greater.
+- Our total liability to you for any claims arising from use of the App shall not exceed the amount you paid for the App in the 12 months preceding the claim, or $50, whichever is greater.
 - **We are not liable for any harm to aquatic life, equipment damage, or other losses** resulting from actions taken based on information provided by the App.
 
 ## 11. Indemnification
@@ -98,7 +98,7 @@ You may stop using the App and delete your account at any time.
 
 ## 13. Governing Law
 
-These Terms shall be governed by and construed in accordance with the laws of [TODO: your jurisdiction, e.g., "the State of California, United States" or "England and Wales"]. Any disputes arising from these Terms shall be subject to the exclusive jurisdiction of the courts of [TODO: jurisdiction].
+These Terms shall be governed by and construed in accordance with the laws of England and Wales. Any disputes arising from these Terms shall be subject to the exclusive jurisdiction of the courts of England and Wales.
 
 ## 14. Severability
 
@@ -113,4 +113,3 @@ These Terms, together with our Privacy Policy and Data Protection notice, consti
 If you have questions about these Terms, please contact us at:
 
 - **Email**: wfh-appstore-contact@googlegroups.com
-- **Address**: [TODO: physical address, if applicable]
