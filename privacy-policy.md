@@ -46,7 +46,7 @@ We do not sell your personal information. We may share data with:
 
 ## 4. Data Retention
 
-We retain your data for as long as your account is active or as needed to provide the App's services. If you delete your account, we will delete or anonymise your data within [TODO: specify timeframe, e.g., 30 days], unless we are required to retain it for legal purposes.
+We retain your data for as long as your account is active or as needed to provide the App's services. If you delete your account, we will delete or anonymise your data within 30 days, unless we are required to retain it for legal purposes.
 
 ## 5. Data Security
 

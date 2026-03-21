@@ -79,7 +79,7 @@ Your data may be transferred to and processed in countries outside the European 
 
 We retain personal data only for as long as necessary to fulfil the purposes described in our [Privacy Policy]({{ '/privacy-policy' | relative_url }}). Specific retention periods:
 
-- **Account data**: Retained while your account is active, deleted within [TODO: e.g., 30 days] of account deletion.
+- **Account data**: Retained while your account is active, deleted within 30 days of account deletion.
 - **Usage and analytics data**: Retained for [TODO: e.g., 12 months] in identifiable form, then anonymised.
 - **Support communications**: Retained for [TODO: e.g., 24 months] after resolution.
 
