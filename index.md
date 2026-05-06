@@ -1,44 +1,45 @@
 ---
 title: Home
-description: "Aquarium Sensei — Your smart companion for aquarium planning, monitoring, and care."
+description: "Aquarium Sensei — the patient way to keep a beautiful tank."
 ---
 
 <div class="hero" markdown="0">
-  <h1>Aquarium Sensei</h1>
-  <p class="tagline">Your smart companion for aquarium planning, monitoring, and care.</p>
+  <span class="overline">Aquarium Sensei</span>
+  <h1>The patient way to keep a beautiful tank.</h1>
+  <p class="tagline">A considered companion for planning, monitoring, and caring for freshwater, saltwater, and brackish aquariums.</p>
 </div>
 
-Whether you're setting up your first tank or managing a multi-aquarium setup, Aquarium Sensei helps you make informed decisions and keep your aquatic life thriving.
+Whether you're setting up your first betta tank, dialling in a planted aquascape, or running a reef, Aquarium Sensei helps you make informed decisions and keep your aquatic life thriving.
 
 <div class="features" markdown="0">
-  <div class="feature">
-    <h3>Plan Your Aquarium</h3>
-    <p>Design your ideal setup with guidance on tank size, filtration, substrate, and more.</p>
+  <div class="feature" data-water="fresh">
+    <h3>Plan your aquarium</h3>
+    <p>Design your setup with guidance on tank size, filtration, substrate, and stocking — tuned to the water type you keep.</p>
   </div>
-  <div class="feature">
-    <h3>Monitor &amp; Troubleshoot</h3>
-    <p>Track water parameters, identify issues early, and get actionable advice to fix problems.</p>
+  <div class="feature" data-water="salt">
+    <h3>Monitor &amp; troubleshoot</h3>
+    <p>Track water parameters, catch drift early, and get actionable advice when something looks off.</p>
   </div>
-  <div class="feature">
-    <h3>Compatibility Advice</h3>
-    <p>Find out which fish, plants, and invertebrates can live together harmoniously.</p>
+  <div class="feature" data-water="brackish">
+    <h3>Compatibility advice</h3>
+    <p>Find out which fish, plants, and invertebrates can live together — and which combinations to avoid.</p>
   </div>
 </div>
 
-<p style="text-align:center">
+<div class="cta-row" markdown="0">
   <a href="https://play.google.com/store/apps/details?id=com.wfhunlimited.aquariumsensei" class="cta">Get it on Google Play</a>
-</p>
+</div>
 
 ## About Aquarium Sensei
 
-Aquarium Sensei is designed for aquarium hobbyists of all experience levels. The app helps you:
+Aquarium Sensei is built for hobbyists at every tier — beginners, planted-tank aquascapers, and reefers. The app helps you:
 
-- **Plan** new aquariums with step-by-step guidance
-- **Manage** your existing tanks with maintenance schedules and reminders
-- **Monitor** water quality parameters and receive alerts
-- **Troubleshoot** common problems with expert advice
-- **Discover** compatible species of fish, plants, and invertebrates
+- **Plan** new aquariums with step-by-step guidance.
+- **Manage** your tanks with maintenance schedules and reminders.
+- **Monitor** water quality parameters and receive alerts.
+- **Troubleshoot** common problems with expert advice.
+- **Discover** compatible fish, plants, and invertebrates.
 
 ## Contact
 
-If you have questions, feedback, or need support, please reach out to us at **wfh-appstore-contact@googlegroups.com**.
+If you have questions, feedback, or need support, reach out at **wfh-appstore-contact@googlegroups.com**.
