@@ -89,5 +89,5 @@ description: "Aquarium Sensei — the patient way to keep a beautiful tank."
 
 <section class="contact-section" markdown="0">
   <h2>Contact</h2>
-  <p>Questions, feedback, or need support? Reach out at <a href="mailto:wfh-appstore-contact@googlegroups.com">wfh-appstore-contact@googlegroups.com</a>.</p>
+  <p>Questions, feedback, or need support? Please contact us at <a href="mailto:wfh-appstore-contact@googlegroups.com">wfh-appstore-contact@googlegroups.com</a>.</p>
 </section>
